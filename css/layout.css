@@ -43,10 +43,10 @@
 }
 
 .footer-fixed {
-	padding: 10px 0;
 	position: fixed;
-	bottom: 0;
-	left: 0;
+    left: 0;
+    bottom: 0;
+    padding: 20px;
 	width: 100%;
 	z-index: 20;
 	opacity: 1;
@@ -56,6 +56,7 @@
 	-webkit-transition: all 0.4s ease 0s;
 	-o-transition: all 0.4s ease 0s;
 }
+
 
 @media (max-width: 1079px) {
 	.header.filled {
