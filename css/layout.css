@@ -98,9 +98,10 @@
 	float: left;
 	font-family: "Montserrat", sans-serif;
 	font-size: 34px;
-	font-weight: 700;
-}
+	font-weight: 500;
 
+}
+  
 .header .logo a {
 	color: #ffffff;
 }
