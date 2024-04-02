@@ -96,10 +96,10 @@
 
 .header .logo {
 	float: left;
-	font-family: "Montserrat", sans-serif;
+	/* font-family: "Montserrat", sans-serif; */
+	font-family: "Rubik Pixels", system-ui;
+  	font-weight: 400;
 	font-size: 34px;
-	font-weight: 500;
-
 }
   
 .header .logo a {
@@ -338,7 +338,7 @@
 .section.started .typed-cursor {
 	margin: 20px 0 10px 0;
 	font-size: 7.91666667vw;
-	font-family: "Montserrat", sans-serif;
+	font-family: "Pixelify Sans", sans-serif;
 	line-height: 7.91666667vw;
 	color: #ffffff;
 	font-weight: 400;
